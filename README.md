@@ -2,8 +2,6 @@
 
 A production-ready React application for designing, configuring, and testing HR workflows visually. Built with React 19, React Flow, and modern best practices.
 
-![HR Workflow Designer](https://via.placeholder.com/800x400?text=HR+Workflow+Designer)
-
 ## 🚀 Features
 
 - **Visual Workflow Canvas**: Drag-and-drop interface for building workflows
